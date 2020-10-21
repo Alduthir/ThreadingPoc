@@ -1,0 +1,13 @@
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.exe
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.deps.json
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.runtimeconfig.json
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.dll
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\bin\Debug\netcoreapp3.1\ThreadingPoc.pdb
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.AssemblyInfo.cs
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.dll
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.pdb
+C:\Users\Peter\source\repos\ThreadingPoc\ThreadingPoc\obj\Debug\netcoreapp3.1\ThreadingPoc.genruntimeconfig.cache
